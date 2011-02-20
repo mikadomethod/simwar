@@ -1,4 +1,10 @@
 classes
 bin
 target
-build
+build.gradle
+.classpath
+.project
+.settings
+bin
+example3/build
+.DS_Store
